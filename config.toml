@@ -1,0 +1,14 @@
+visible_pairs = 30
+map_visible_pairs = 40
+radius = 0.75
+vertical_spacing = 0.16
+angle_step = 0.36
+sphere_radius = 0.24
+stick_radius = 0.018
+
+[colors]
+A = "#bb3232"
+T = "#31b031"
+C = "#3737ad"
+G = "#b5b539"
+N = "#888888"
